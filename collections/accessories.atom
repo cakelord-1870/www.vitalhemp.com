@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vitalhemp.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vitalhemp.com/collections/accessories.atom"/>
+  <title>Vital Hemp, Inc.</title>
+  <updated>2021-02-24T17:26:47-08:00</updated>
+  <author>
+    <name>Vital Hemp, Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4733717938236</id>
+    <published>2021-02-24T17:26:47-08:00</published>
+    <updated>2021-02-24T17:26:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/kind-hemp-crew-socks"/>
+    <title>Kind Hemp Crew Socks</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Kind Hemp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/kind-hemp-crew-socks-238404.jpg?v=1614230067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kind Hemp<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>The Most Comfortable Socks In The World.</b><br></p>
+<p>We love <a title="kind hemp company" href="https://kindhempco.com/" target="_blank">Kind Hemp Company's</a> socks so much we wanted to share them with everyone. </p>
+<p>"Hemp fibers naturally keep your socks free from sweat, smell, and holes. Whether you’re hitting the trails, staying busy at work, or relaxing at home these high-performance hemp socks are perfect for all occasions. Once you try a pair of hemp socks you will be ready to switch your entire sock drawer to hemp!" <span data-mce-fragment="1">— Kind Hemp Co.</span></p>
+<ul>
+<li style="font-weight: 400;">Extremely Durable </li>
+<li style="font-weight: 400;">Naturally Anti-Bacterial</li>
+<li style="font-weight: 400;">Breathable</li>
+<li style="font-weight: 400;">Odor Resistant</li>
+<li style="font-weight: 400;">Wicks Moisture</li>
+<li style="font-weight: 400;">Machine Wash, Tumble Dry</li>
+<li style="font-weight: 400;">51% Hemp 38% Organic Cotton 11% Spandex</li>
+</ul>
+<!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within 21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” </li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>consignment</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Navy / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70000</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Navy / L-XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70001</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Rust / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70002</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Rust / L-XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70003</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Aqua / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70004</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Aqua / L-XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70005</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Purple / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70006</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Purple / L-XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70007</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Grey / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70008</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Natural / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70009</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4733717938236</id>
+      <title>Black / S-M</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>70010</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4722301829180</id>
+    <published>2021-01-25T16:48:17-08:00</published>
+    <updated>2021-01-25T16:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/one-world-mask"/>
+    <title>One World Hemp Mask</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Vital Hemp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/one-world-hemp-mask-360694.jpg?v=1611634438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vital Hemp<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Connect with distance in a One World Mask.</b></p>
+<p style="text-align: center;"><em>One world is enough for all of us. </em>— The Police</p>
+<p>Our hemp and organic cotton face masks are made in the USA, in Los Angeles, California. We understand that the health of people around the world depends upon the health of ecosystems that support all life.</p>
+<p>Why Hemp? In choosing hemp, we are supporting the cultivation of a crop that cools the globe by sequestering atmospheric carbon, helping in the fight against global warming. Hemp crops do not require pesticides or heavy water use.<br></p>
+<p>Hemp is naturally anti-microbial, moisture-wicking, as well as UV and mold resistant. ~Hemp lets your skin breathe~<br></p>
+<p>Hemp/ Organic Cotton Mask with Ties:<br></p>
+<ul>
+<li><span>4 straps that tie easily behind the head and neck for a snug fit. </span></li>
+<li><span>Mask is two layers, with a pocket for a filter if you choose to use one. </span></li>
+<li><span>Pocket fits pm 2.5 filters. </span></li>
+<li><span>Length measured along the curve of the center front seam is 5 3/4".</span></li>
+<li><span>55% hemp/ 42% organic cotton</span></li>
+<li><span>One size</span></li>
+<li><span>Wash before use</span></li>
+</ul>
+<ul class="tabs">
+<ul></ul>
+</ul>
+<p style="text-align: center;"><em>We design everything in Santa Monica, California, and make all our hemp clothing ethically, with family-owned contractors in Los Angeles, USA.</em></p>
+<!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within  21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” Our garments are garment-dyed, they have already been shrunk to the max. The will not shrink any more; though the fabric may relax a bit over time.</li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Ironing: Our knits don’t generally need to be ironed. If you want to iron our 100% hemp wovens to make them look brand new again, use a hot iron on the linen setting and use steam.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>beach accessory</s:tag>
+    <s:tag>colorful scarves</s:tag>
+    <s:tag>eco-chic</s:tag>
+    <s:tag>eco-friendly fashion</s:tag>
+    <s:tag>eco-friendly scarves</s:tag>
+    <s:tag>hemp</s:tag>
+    <s:tag>hemp clothing</s:tag>
+    <s:tag>hemp scarf</s:tag>
+    <s:tag>hemp scarves</s:tag>
+    <s:tag>hemp wrap</s:tag>
+    <s:tag>muti-color scarves</s:tag>
+    <s:tag>office casual</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>solid scarves</s:tag>
+    <s:tag>sustainable fashion</s:tag>
+    <s:tag>vital hemp</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>winter accessory</s:tag>
+    <s:tag>women&apos;s hemp fashion</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4722301829180</id>
+      <title>Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>60600</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4722301829180</id>
+      <title>Treetop</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>60601</s:sku>
+      <s:grams>178</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4722301829180</id>
+      <title>Ocean</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>60602</s:sku>
+      <s:grams>179</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4722301829180</id>
+      <title>Tie-Dye</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>60603</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4692737851452</id>
+    <published>2020-12-08T20:55:06-08:00</published>
+    <updated>2020-12-08T20:55:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/stocking"/>
+    <title>Hemp Christmas Stocking</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Vital Hemp, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/hemp-christmas-stocking-907116.jpg?v=1610594444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vital Hemp, Inc.<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Holiday hemp stockings for your mantle or tree.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">We make these stockings from the remnants of production. Each one is unique. Nice for decoration, a small stocking to stuff, or a gift to stuff in another stocking. So many stocking stuffing choices!</span></p>
+<div style="text-align: center;"><em>We design everything in Santa Monica, California, and make all our hemp clothing ethically, with family-owned contractors in Los Angeles, USA.</em></div>
+<br> <!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within  21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” Our garments are garment-dyed, they have already been shrunk to the max. The will not shrink any more; though the fabric may relax a bit over time.</li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Ironing: Our knits don’t generally need to be ironed. If you want to iron our 100% hemp wovens to make them look brand new again, use a hot iron on the linen setting and use steam.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692737851452</id>
+      <title>Green/Red/Blue/White/Yellow</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60406</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4692688371772</id>
+    <published>2020-12-07T20:11:53-08:00</published>
+    <updated>2020-12-07T20:11:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/patchwork-scarf"/>
+    <title>Hemp Scarf</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Vital Hemp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/hemp-scarf-323840.jpg?v=1611701712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vital Hemp<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Keep cozy and look stylish in our hemp scarf.  </b><br></p>
+<p>These hemp scarves are <span data-mce-fragment="1">made from the larger scraps of fabric from the cutting room, that would otherwise be thrown away.</span> Each artistic patchwork scarf is a unique one-off, a one-of-a-kind. Pattern may differ from image. Choose solid or your favorite colorway. These make outstanding gifts, because they’re light enough to be used most of the year. Wrap this lightweight hemp fabric around you for all day for comfort and sustainable style. 55% Hemp 45% Organic Cotton</p>
+<ul class="tabs">
+<ul></ul>
+</ul>
+<p style="text-align: center;"><em>We design everything in Santa Monica, California, and make all our hemp clothing ethically, with family-owned contractors in Los Angeles, USA.</em></p>
+<!--Start tab labels-->
+<ul class="tabs">
+<li><a href="#tab1" class="active">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li id="tab1" class="active">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within  21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” Our garments are garment-dyed, they have already been shrunk to the max. The will not shrink any more; though the fabric may relax a bit over time.</li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Ironing: Our knits don’t generally need to be ironed. If you want to iron our 100% hemp wovens to make them look brand new again, use a hot iron on the linen setting and use steam.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>beach accessory</s:tag>
+    <s:tag>colorful scarves</s:tag>
+    <s:tag>eco-chic</s:tag>
+    <s:tag>eco-friendly fashion</s:tag>
+    <s:tag>eco-friendly scarves</s:tag>
+    <s:tag>hemp</s:tag>
+    <s:tag>hemp clothing</s:tag>
+    <s:tag>hemp scarf</s:tag>
+    <s:tag>hemp scarves</s:tag>
+    <s:tag>hemp wrap</s:tag>
+    <s:tag>muti-color scarves</s:tag>
+    <s:tag>office casual</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>solid scarves</s:tag>
+    <s:tag>sustainable fashion</s:tag>
+    <s:tag>vital hemp</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>winter accessory</s:tag>
+    <s:tag>women&apos;s hemp fashion</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Black</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60000</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Black/Grey/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60001</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Forest/Eggplant/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60004</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Black/Blue/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60006</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Black/Purple/Red/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60008</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>White/Yellow/Green/Pink</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60011</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Green/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60012</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Eggplant</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60013</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Wave</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60014</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Emerald</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60015</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Forest</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60016</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Blue/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60018</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Emerald/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60019</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Midnight/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60020</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Lt Blue/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60021</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Forest/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60024</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Red/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60023</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Red/Aqua/White</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60025</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688371772</id>
+      <title>Midnight</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>60066</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4692604551228</id>
+    <published>2020-12-07T20:11:52-08:00</published>
+    <updated>2020-12-07T20:11:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/beanie"/>
+    <title>Hemp Beanie</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Vital Hemp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/hemp-beanie-257846.jpg?v=1611720962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vital Hemp<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Keep your noggin’ comfy, without the bulk.  </b></p>
+<p><span style="font-weight: 400;">Made from our hemp jersey knit, these hemp beanies work well for under a bike or Winter helmet, or on a chilly morning or evening when you’re out for a walk and want something to take the edge off without getting too hot. We make these hemp beanies <span data-mce-fragment="1">from the larger scraps of fabric from the cutting room, that would otherwise be thrown away.</span> </span>55% Hemp 45% Organic Cotton</p>
+<ul class="tabs">
+<ul></ul>
+</ul>
+<p style="text-align: center;"><em>We design everything in Santa Monica, California, and make all our hemp clothing ethically, with family-owned contractors in Los Angeles, USA.</em></p>
+<!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within  21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” Our garments are garment-dyed, they have already been shrunk to the max. The will not shrink any more; though the fabric may relax a bit over time.</li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Ironing: Our knits don’t generally need to be ironed. If you want to iron our 100% hemp wovens to make them look brand new again, use a hot iron on the linen setting and use steam.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>beanie</s:tag>
+    <s:tag>cap</s:tag>
+    <s:tag>comfortable clothing</s:tag>
+    <s:tag>eco-chic</s:tag>
+    <s:tag>eco-friendly fashion</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>hats</s:tag>
+    <s:tag>hemp</s:tag>
+    <s:tag>hemp beanie</s:tag>
+    <s:tag>hemp cap</s:tag>
+    <s:tag>hemp clothing</s:tag>
+    <s:tag>hemp hats</s:tag>
+    <s:tag>skull cap</s:tag>
+    <s:tag>skully</s:tag>
+    <s:tag>sustainable fashion</s:tag>
+    <s:tag>vital hemp</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Eggplant</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60400</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Emerald</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60403</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Black</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60404</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Berry</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60407</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>White</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60408</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Chill</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60409</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Forest</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60410</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Sky</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60411</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Caribbean</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60412</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Stone</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60413</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692604551228</id>
+      <title>Red</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>60414</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vitalhemp.com/products/4692688437308</id>
+    <published>2020-12-07T20:10:57-08:00</published>
+    <updated>2020-12-07T20:10:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vitalhemp.com/products/farmers-market-bag"/>
+    <title>Farmer&apos;s Market Bag</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Vital Hemp, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1662/0479/products/farmers-market-bag-246613.jpg?v=1616024950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vital Hemp, Inc.<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack it in this canvas farmer's market bag from Vital Hemp. </strong></p>
+<p>We designed this 100% hemp bag as a "once a week" bag, a bag that can carry a week's worth of produce from the farmer's market. We designed it to fit both short women and tall men. We use them for everything from beach-going to soft storage. Great for snacks on a long road trip.<br></p>
+<ul>
+<li>Machine wash and dryable. Also available for custom orders with your logo</li>
+<li>Interior pocket for your smart phone, keys, or cash</li>
+<li><span>Won an award for the bag category in an industrial design competition</span></li>
+</ul>
+<div style="text-align: center;"><em>We design everything in Santa Monica, California, and make all our hemp clothing ethically, with family-owned contractors in Los Angeles, USA.</em></div>
+<!--Start tab labels-->
+<ul class="tabs">
+<li><a href="#tab1" class="active">Shipping</a></li>
+<li><a href="#tab2">Returns</a></li>
+<li><a href="#tab3">Garment</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li id="tab1" class="active">
+<div style="padding-left: 3px;">
+<ul>
+<li>All U.S. orders $200 or more receive FREE USPS priority shipping.</li>
+<li>Vital Hemp accepts Visa, Mastercard, American Express, Discover, and PayPal.</li>
+<li><span style="font-weight: 400;">All markdown styles are final sale. No refunds or exchanges.</span></li>
+<li><span style="font-weight: 400;">Customers returning items for credit or exchange are responsible for return shipping costs ($8.00). </span></li>
+<li><span style="font-weight: 400;">All US orders are typically shipped within 48 business hours (excluding weekends).  USPS Priority domestic mail often delivers packages within 2-3 business days from the date of mailing.</span></li>
+<li><span style="font-weight: 400;">International orders ship within 5 to 7 business days and may take up to 14 business days to deliver depending on the shipping service.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab2">
+<div style="padding-left: 3px;">
+<ul>
+<li>Unworn, unwashed garments, with tags,  may be exchanged or returned for store credit if returned within  21 days with a receipt.</li>
+<li><span style="font-weight: 400;">Items must be returned in the same condition in which you received them, any signs of wear will not be accepted for return. </span></li>
+<li>Defective merchandise will receive a full refund. To expedite processing, please include a note with return address and requested action (ex: please exchange for the same item in a smaller size; or please issue me a gift card for store credit).</li>
+<li>Exchanges for any items eligible for return will be based on availability of the stock.</li>
+<li>We do not accept returns of gift cards, masks, promotional items and final sale items.</li>
+<li><span style="font-weight: 400;">Vital Hemp is not responsible for a lost or stolen packages once it has been delivered.</span></li>
+</ul>
+</div>
+</li>
+<li id="tab3">
+<div style="padding-left: 3px;">
+<ul>
+<li>Hemp is the most durable natural fiber. These hemp clothes will last you a long time if you take care of them. As many in the hemp industry say about hemp: “You don’t wear it out; you wear it in.” Our garments are garment-dyed, they have already been shrunk to the max. The will not shrink any more; though the fabric may relax a bit over time.</li>
+<li>Suggestions for care: In general, you don’t need to baby hemp. Machine wash cold or warm. Tumble dry warm, or line dry (best not to dry in high heat). Avoid bleach, velcro and any hardware that can snag. Avoid uneven exposure to the sun as the sunlight may fade the color.</li>
+<li>Ironing: Our knits don’t generally need to be ironed. If you want to iron our 100% hemp wovens to make them look brand new again, use a hot iron on the linen setting and use steam.</li>
+<li>Hempjucation: The first jeans were made from hemp; but they lasted too long; so the business switched to cotton. Cotton uses 25% of all pesticides, polluting ecosystems. Hemp doesn’t need pesticides. The original linen was made from hemp. Hemp wicks better than all other plant fibers, letting your skin breath. Hemp is anti-microbial, so clothes stay fresher longer.</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688437308</id>
+      <title>Azure</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>60501</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688437308</id>
+      <title>Black</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>60500</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vitalhemp.com/products/4692688437308</id>
+      <title>Natural</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>
